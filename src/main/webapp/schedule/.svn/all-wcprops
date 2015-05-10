@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/tbschedule/!svn/ver/73/trunk/src/WebRoot/schedule
+END
+scheduleStrategyEdit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tbschedule/!svn/ver/28/trunk/src/WebRoot/schedule/scheduleStrategyEdit.jsp
+END
+managerFactoryDeal.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tbschedule/!svn/ver/9/trunk/src/WebRoot/schedule/managerFactoryDeal.jsp
+END
+taskTypeDeal.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tbschedule/!svn/ver/35/trunk/src/WebRoot/schedule/taskTypeDeal.jsp
+END
+configDeal.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tbschedule/!svn/ver/2/trunk/src/WebRoot/schedule/configDeal.jsp
+END
+zookeeperData.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tbschedule/!svn/ver/73/trunk/src/WebRoot/schedule/zookeeperData.jsp
+END
+managerFactoryList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tbschedule/!svn/ver/9/trunk/src/WebRoot/schedule/managerFactoryList.jsp
+END
+importConfig.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tbschedule/!svn/ver/2/trunk/src/WebRoot/schedule/importConfig.jsp
+END
+taskTypeList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tbschedule/!svn/ver/55/trunk/src/WebRoot/schedule/taskTypeList.jsp
+END
+serverList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tbschedule/!svn/ver/9/trunk/src/WebRoot/schedule/serverList.jsp
+END
+scheduleStrategyDeal.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tbschedule/!svn/ver/9/trunk/src/WebRoot/schedule/scheduleStrategyDeal.jsp
+END
+config.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tbschedule/!svn/ver/9/trunk/src/WebRoot/schedule/config.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tbschedule/!svn/ver/9/trunk/src/WebRoot/schedule/index.jsp
+END
+exportConfig.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tbschedule/!svn/ver/2/trunk/src/WebRoot/schedule/exportConfig.jsp
+END
+taskTypeEdit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tbschedule/!svn/ver/32/trunk/src/WebRoot/schedule/taskTypeEdit.jsp
+END
+scheduleStrategyList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tbschedule/!svn/ver/55/trunk/src/WebRoot/schedule/scheduleStrategyList.jsp
+END
+taskTypeInfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tbschedule/!svn/ver/9/trunk/src/WebRoot/schedule/taskTypeInfo.jsp
+END
+deleteZookeeperData.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tbschedule/!svn/ver/30/trunk/src/WebRoot/schedule/deleteZookeeperData.jsp
+END
+scheduleStrategyRuntime.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tbschedule/!svn/ver/9/trunk/src/WebRoot/schedule/scheduleStrategyRuntime.jsp
+END

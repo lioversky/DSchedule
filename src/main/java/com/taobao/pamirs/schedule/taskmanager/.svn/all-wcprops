@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tbschedule/!svn/ver/97/trunk/src/main/java/com/taobao/pamirs/schedule/taskmanager
+END
+LockObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tbschedule/!svn/ver/14/trunk/src/main/java/com/taobao/pamirs/schedule/taskmanager/LockObject.java
+END
+ScheduleTaskType.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tbschedule/!svn/ver/33/trunk/src/main/java/com/taobao/pamirs/schedule/taskmanager/ScheduleTaskType.java
+END
+TBScheduleManagerDynamic.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tbschedule/!svn/ver/14/trunk/src/main/java/com/taobao/pamirs/schedule/taskmanager/TBScheduleManagerDynamic.java
+END
+ScheduleServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tbschedule/!svn/ver/43/trunk/src/main/java/com/taobao/pamirs/schedule/taskmanager/ScheduleServer.java
+END
+IScheduleProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tbschedule/!svn/ver/14/trunk/src/main/java/com/taobao/pamirs/schedule/taskmanager/IScheduleProcessor.java
+END
+TBScheduleManagerStatic.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tbschedule/!svn/ver/96/trunk/src/main/java/com/taobao/pamirs/schedule/taskmanager/TBScheduleManagerStatic.java
+END
+IScheduleDataManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tbschedule/!svn/ver/43/trunk/src/main/java/com/taobao/pamirs/schedule/taskmanager/IScheduleDataManager.java
+END
+TBScheduleProcessorSleep.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tbschedule/!svn/ver/96/trunk/src/main/java/com/taobao/pamirs/schedule/taskmanager/TBScheduleProcessorSleep.java
+END
+TBScheduleProcessorNotSleep.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tbschedule/!svn/ver/96/trunk/src/main/java/com/taobao/pamirs/schedule/taskmanager/TBScheduleProcessorNotSleep.java
+END
+TBScheduleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tbschedule/!svn/ver/97/trunk/src/main/java/com/taobao/pamirs/schedule/taskmanager/TBScheduleManager.java
+END
+ScheduleTaskItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tbschedule/!svn/ver/14/trunk/src/main/java/com/taobao/pamirs/schedule/taskmanager/ScheduleTaskItem.java
+END
+ScheduleTaskTypeRunningInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tbschedule/!svn/ver/14/trunk/src/main/java/com/taobao/pamirs/schedule/taskmanager/ScheduleTaskTypeRunningInfo.java
+END
