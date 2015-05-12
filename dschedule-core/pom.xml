@@ -1,0 +1,56 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<artifactId>dschedule</artifactId>
+		<groupId>dschedule</groupId>
+		<version>1.0.0</version>
+		<relativePath>..</relativePath>
+	</parent>
+	<artifactId>dschedule-core</artifactId>
+	<dependencies>
+		<!-- zookeeper -->
+		<dependency>
+			<groupId>org.apache.zookeeper</groupId>
+			<artifactId>zookeeper</artifactId>
+			<version>3.4.5</version>
+		</dependency>
+		<!-- curator -->
+		<dependency>
+			<groupId>org.apache.curator</groupId>
+			<artifactId>curator-framework</artifactId>
+			<version>2.7.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.curator</groupId>
+			<artifactId>curator-examples</artifactId>
+			<version>2.7.0</version>
+		</dependency>
+		<dependency>
+			<groupId>dschedule</groupId>
+			<artifactId>dschedule-entity</artifactId>
+			<version>1.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>dschedule</groupId>
+			<artifactId>dschedule-bean</artifactId>
+			<version>1.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>dschedule</groupId>
+			<artifactId>dschedule-datamanager</artifactId>
+			<version>1.0.0</version>
+		</dependency>
+	</dependencies>
+	<build>
+		<plugins>
+			<plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<source>1.6</source>
+					<target>1.6</target>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+</project>
